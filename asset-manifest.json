@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AEROneer/static/css/main.faca5550.css",
+    "main.js": "/AEROneer/static/js/main.40fb0760.js",
+    "static/js/787.d67e08ee.chunk.js": "/AEROneer/static/js/787.d67e08ee.chunk.js",
+    "static/media/liftthumbnail.png": "/AEROneer/static/media/liftthumbnail.e44fea46164d06c32943.png",
+    "static/media/aboutbg.jpg": "/AEROneer/static/media/aboutbg.1a690df5e82ee6b1399b.jpg",
+    "static/media/liftmain.png": "/AEROneer/static/media/liftmain.cd26b85e9dd062eec3c4.png",
+    "static/media/thrustmain.png": "/AEROneer/static/media/thrustmain.715deac0e3e36b510c0a.png",
+    "static/media/dragmain.png": "/AEROneer/static/media/dragmain.5276e6a8f460411c74f2.png",
+    "static/media/clouds.png": "/AEROneer/static/media/clouds.910423eca0f604f1409b.png",
+    "static/media/dragthumbnail.png": "/AEROneer/static/media/dragthumbnail.5ffd1e99ef11552e45d2.png",
+    "static/media/plane.png": "/AEROneer/static/media/plane.f55d255464518040a1d2.png",
+    "static/media/thrustthumbmail.png": "/AEROneer/static/media/thrustthumbmail.5bc77335758010dedb22.png",
+    "static/media/homepic1.jpg": "/AEROneer/static/media/homepic1.a98025d1b29473a0bd6d.jpg",
+    "static/media/homepic3.jpg": "/AEROneer/static/media/homepic3.9408eb7e18869c325077.jpg",
+    "static/media/homepic2.jpg": "/AEROneer/static/media/homepic2.7f7a723d3a714a5bd0c4.jpg",
+    "static/media/abouth1.png": "/AEROneer/static/media/abouth1.434c006a99c9c70bcf4b.png",
+    "static/media/AEROneer.png": "/AEROneer/static/media/AEROneer.f6d76e0c06fade9a2758.png",
+    "static/media/airfoil.png": "/AEROneer/static/media/airfoil.3587ab48a4435894f444.png",
+    "index.html": "/AEROneer/index.html",
+    "main.faca5550.css.map": "/AEROneer/static/css/main.faca5550.css.map",
+    "main.40fb0760.js.map": "/AEROneer/static/js/main.40fb0760.js.map",
+    "787.d67e08ee.chunk.js.map": "/AEROneer/static/js/787.d67e08ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faca5550.css",
+    "static/js/main.40fb0760.js"
+  ]
+}
